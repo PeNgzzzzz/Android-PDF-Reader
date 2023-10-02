@@ -1,5 +1,7 @@
 # Android PDF Reader
 
+<img src="https://github.com/PeNgzzzzz/Android-PDF-Reader/blob/main/Preview.png" alt="Preview" align="center" width="auto" height="auto" />
+
 ## Introduction
 This project is an Android-based PDF reader that allows users to read, annotate, and navigate through PDF documents. The application is designed to work on Android tablets and supports a range of features including drawing, highlighting, erasing, zooming, and panning.
 
